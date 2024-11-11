@@ -1,2 +1,2 @@
-# python-coourse-full
+# python-course-full
 Repository for my python learning notes
